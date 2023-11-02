@@ -18,5 +18,5 @@ Mini Project of JuaraAndroid with Compose Camp
 #### Screenshots
 *App Details*
 <br/>
-<img src="https://github.com/affandymurad/AseanCompose/blob/main/asean.gif" width="250" height="400">
+<img src="https://github.com/affandymurad/AseanCompose/blob/main/asean.gif" width="550" height="400">
 <br/>
