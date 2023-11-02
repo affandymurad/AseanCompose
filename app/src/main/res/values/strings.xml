@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">ASEAN</string>
+    <string name="id">Indonesia</string>
+    <string name="my">Malaysia</string>
+    <string name="sg">Singapura</string>
+    <string name="th">Thailand</string>
+    <string name="ph">Filipina</string>
+    <string name="bn">Brunei</string>
+    <string name="vn">Vietnam</string>
+    <string name="la">Laos</string>
+    <string name="mm">Myanmar</string>
+    <string name="kh">Kamboja</string>
+    <string name="tl">Timor Leste</string>
+
+    <string name="id_on">Republik Indonesia</string>
+    <string name="my_on">Malaysia</string>
+    <string name="sg_on">Republik Singapura</string>
+    <string name="th_on">Kerajaan Thailand</string>
+    <string name="ph_on">Republik Filipina</string>
+    <string name="bn_on">Brunei Darussalam</string>
+    <string name="vn_on">Republik Sosialis Vietnam</string>
+    <string name="la_on">Republik Demokratik Rakyat Laos</string>
+    <string name="mm_on">Republik Persatuan Myanmar</string>
+    <string name="kh_on">Kerajaan Kamboja</string>
+    <string name="tl_on">Republik Demokratik Timor-Leste</string>
+
+    <string name="id_c">IDR</string>
+    <string name="my_c">MYR</string>
+    <string name="sg_c">SGD</string>
+    <string name="th_c">THB</string>
+    <string name="ph_c">PHP</string>
+    <string name="bn_c">BND</string>
+    <string name="vn_c">VND</string>
+    <string name="la_c">LAK</string>
+    <string name="mm_c">MMK</string>
+    <string name="kh_c">KHR</string>
+    <string name="tl_c">USD</string>
+
+    <string name="id_tel">+62</string>
+    <string name="my_tel">+60</string>
+    <string name="sg_tel">+65</string>
+    <string name="th_tel">+66</string>
+    <string name="ph_tel">+63</string>
+    <string name="bn_tel">+673</string>
+    <string name="vn_tel">+84</string>
+    <string name="la_tel">+856</string>
+    <string name="mm_tel">+95</string>
+    <string name="kh_tel">+855</string>
+    <string name="tl_tel">+670</string>
+
+    <string name="about">Tentang:</string>
+    <string name="back_button"></string>
+    <string name="expand_button_content_description">See more or less information about a country.</string>
+</resources>
